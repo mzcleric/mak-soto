@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: rgb(40, 42, 43);}
+h2   {
+color: white;
+font-family: courier;
+font-size: 28px;
+}
+p.yellow    {color: yellow;}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+mark {background-color: red; color: white;}
+
+ul.start {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(40, 42, 43);
+}
+
+li.start {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: rgb(255,255,71);}
+ 
+</style>
+</head>
+
+
+<img src="arenagympic.png" alt="arena gym logo" style="float: left; width:10%;height:10%;">
+<h1 style="color: yellow; font-size: 50px; font-family: verdana;">ARENA GYM</h1>
+
+<ul class="start">
+  <li class="start"><a href="GYM3.html">Home</a></li>
+  <li class="start"><a href="GYM4.html">Special Features</a></li>
+  <li class="start"><a href="GYM5.html">Facilities</a></li>
+  <li class="start"><a href="GYM6.html">Booking Rates</a></li>
+</ul>
+
+<hr>
+
+<img src="http://www.arena-gym.com/images/event1.jpg" alt="personaltrainers" width="570" height="340">
+<p style="text-align: center; color: yellow; font-size: 20px;">Arena Gym's finest <mark>PERSONAL TRAINERS</mark> are always available to help you in your workout! You can choose your trainers based on your workout plan that day!</p> 
+
+
+
+
+
+
+
+</body>
+</html>
